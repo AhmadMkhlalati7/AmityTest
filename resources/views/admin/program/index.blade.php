@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('content')
 <div class="container mt-5 card">
-    <div class="card-body">
+    <div class="card-body table-responsive">
     <h2 class="mb-4">Programs Table</h2>
     <a class="btn btn-success mb-3" href="javascript:void(0)" id="createNewProgram"> Create New Program</a>
-    <table class="table table-bordered data-table">
+    <table class="table table-bordered data-table table-hover">
         <thead>
             <tr>
                 <th>No</th>
