@@ -1,0 +1,7 @@
+div.dt-container .dt-paging .dt-paging-button.current
+{
+    background-color: #3b7ddd;
+    border: #3b7ddd;
+    color: #FFF !important;
+    border-radius: 10px;
+}
